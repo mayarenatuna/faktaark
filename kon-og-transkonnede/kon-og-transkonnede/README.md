@@ -1,12 +1,8 @@
-# Transkønnede
+# Køn og transkønnede
 
 ### Demografi
 
 Transpersoner udgør **≈0,5-2%** af befolkningen. Konservative estimater siger at de udgør **≈0,54% (**[Aalborg Universitet](https://www.kristeligt-dagblad.dk/danmark/ganske-faa-ser-sig-selv-som-transkoennede), [Danske Regioner, Sundheds- og Ældreministeriet, og Kommunernes Landsforening](https://www.sundhed.dk/borger/patienthaandbogen/sundhedsoplysning/lgbt/transkoennethed--koensinkongruens/)**)**
-
-****
-
-****
 
 ### Transkønnede er mere udsatte end ciskønnede
 

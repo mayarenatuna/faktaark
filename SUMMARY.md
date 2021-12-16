@@ -33,12 +33,11 @@
 
 ## ⚧ Køn og Transkønnede
 
-* [Køn](kon-og-transkonnede/kon.md)
-* [Transkønnede](kon-og-transkonnede/transkonnede/README.md)
-  * [Medicinsk konsensus](kon-og-transkonnede/transkonnede/medicinsk-konsensus.md)
-  * [Akademisk konsensus](kon-og-transkonnede/transkonnede/akademisk-konsensus.md)
-  * [Behandling](kon-og-transkonnede/transkonnede/behandling.md)
-  * [Toiletter](kon-og-transkonnede/transkonnede/toiletter.md)
+* [Køn og transkønnede](kon-og-transkonnede/kon-og-transkonnede/README.md)
+  * [Medicinsk konsensus](kon-og-transkonnede/kon-og-transkonnede/medicinsk-konsensus.md)
+  * [Akademisk konsensus](kon-og-transkonnede/kon-og-transkonnede/akademisk-konsensus.md)
+  * [Behandling og rettigheder](kon-og-transkonnede/kon-og-transkonnede/behandling-og-rettigheder.md)
+  * [Toiletter](kon-og-transkonnede/kon-og-transkonnede/toiletter.md)
 
 ## 🏳🌈 LGBTQ+
 
@@ -46,10 +45,11 @@
 
 ## ♻ Klimaforandringer
 
-* [Temperaturer](klimaforandringer/temperaturer.md)
-* [Naturkatastrofer](klimaforandringer/naturkatastrofer.md)
-* [Stigende havniveauer](klimaforandringer/stigende-havniveauer.md)
-* [Gletsjere smelter](klimaforandringer/gletsjere-smelter.md)
+* [Beviser](klimaforandringer/beviser/README.md)
+  * [Temperaturer](klimaforandringer/beviser/temperaturer.md)
+  * [Naturkatastrofer](klimaforandringer/beviser/naturkatastrofer.md)
+  * [Stigende havniveauer](klimaforandringer/beviser/stigende-havniveauer.md)
+  * [Gletsjere smelter](klimaforandringer/beviser/gletsjere-smelter.md)
 
 ## 🚬 Stoffer
 
