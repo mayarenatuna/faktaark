@@ -64,5 +64,9 @@
 
 ## 👥 Partier, personer og organisationer
 
-* [Stram Kurs](partier-personer-og-organisationer/stram-kurs.md)
-* [Nye Borgerlige](partier-personer-og-organisationer/nye-borgerlige.md)
+* [Organisationer og bevægelser](partier-personer-og-organisationer/organisationer-og-bevaegelser/README.md)
+  * [LGBTQ+](partier-personer-og-organisationer/organisationer-og-bevaegelser/lgbtq+.md)
+  * [Black Lives Matter](partier-personer-og-organisationer/organisationer-og-bevaegelser/black-lives-matter.md)
+* [Partier](partier-personer-og-organisationer/partier/README.md)
+  * [Stram Kurs](partier-personer-og-organisationer/partier/stram-kurs.md)
+  * [Nye Borgerlige](partier-personer-og-organisationer/partier/nye-borgerlige.md)
