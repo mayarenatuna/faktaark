@@ -40,7 +40,7 @@
 
 ## 🏳🌈 LGBTQ+
 
-* [LGBTQ+](lgbtq+/lgbtq+.md)
+* [LGBTQ+](lgbtq+/homoseksuelle.md)
 
 ## ♻ Klimaforandringer
 

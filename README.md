@@ -2,7 +2,7 @@
 
 #### Om mig
 
-Du kan kontakte mig på Discord ved at tilføje: **ma#1000** eller **maya095#6169** (nuværende)
+Du kan kontakte mig på Discord ved at tilføje: **ma#1000**
 
 ## Hvad er meningen med dette?
 
