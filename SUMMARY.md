@@ -12,9 +12,9 @@
 
 ## ⚖ Ligestilling, Feminisme og Abort
 
-* [Feminisme](ligestilling-feminisme-og-abort/feminisme/README.md)
-  * [Falske voldtægts anmeldelser](ligestilling-feminisme-og-abort/feminisme/falske-voldtaegts-anmeldelser.md)
+* [Feminisme](ligestilling-feminisme-og-abort/feminisme.md)
   * [Stillinger](ligestilling-feminisme-og-abort/feminisme/stillinger.md)
+  * [Voldtægt](ligestilling-feminisme-og-abort/feminisme/voldtaegt.md)
 * [Abort](ligestilling-feminisme-og-abort/abort.md)
 
 ## 🌐 Race, Etnicitet, Religion og Indvandring
@@ -71,3 +71,7 @@
   * [Rød og blå blok](partier-personer-og-organisationer/partier/rod-og-bla-blok.md)
   * [Stram Kurs](partier-personer-og-organisationer/partier/stram-kurs.md)
   * [Nye Borgerlige](partier-personer-og-organisationer/partier/nye-borgerlige.md)
+
+## Andet
+
+* [Seksualundervisning](andet/seksualundervisning.md)
