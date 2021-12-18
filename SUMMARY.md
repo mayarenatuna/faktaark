@@ -26,7 +26,7 @@
   * [Andre religioner](race-etnicitet-religion-og-indvandring/religion/andre-religioner.md)
 * [Indvandring](race-etnicitet-religion-og-indvandring/indvandring/README.md)
   * [Racisme i Danmark](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/README.md)
-    * [Generelt](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/generelt.md)
+    * [Diskrimination generelt](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/diskrimination-generelt.md)
     * [På arbejdsmarkedet og i handel](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/pa-arbejdsmarkedet-og-i-handel.md)
     * [Ude på institutionerne](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/ude-pa-institutionerne.md)
   * [Demografi](race-etnicitet-religion-og-indvandring/indvandring/demografi.md)

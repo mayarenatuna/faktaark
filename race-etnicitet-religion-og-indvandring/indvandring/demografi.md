@@ -18,7 +18,7 @@ Muslimer er **ikke** mere **heteroseksuelle** eller **ciskønnede** end Danskere
 | Ikke muslimsk kulturbaggrund | 1 (reference) | 61.758             | 91,9%   |
 | Muslimsk kulturbaggrund      | 2,11          | 753                | 82,4%   |
 
-### "Den Store Udskiftning" debunked
+### "Den Store Udskiftning"
 
 [Pia Kjærsgaard](https://twitter.com/Pia\_Kjaersgaard/status/1138166258514432002) siger at det danske folk "udskiftes", og I **2040** hvor [Rasmus Paludan](https://imgur.com/anD9aR3) siger at **danskere** vil nærme sig at være en minoritet, vil befolkningen være **≈82,5%** dansk, og ikke-vestlige indvandre vil kun udgøre **≈10,5%** af befolkningen, så der er altså ikke tale om en "udskiftning". ([Danmarks Statistik](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/befolkningsfremskrivning))
 

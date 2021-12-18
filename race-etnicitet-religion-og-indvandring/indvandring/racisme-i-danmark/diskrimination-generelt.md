@@ -1,6 +1,4 @@
-# Generelt
-
-### Hadforbrydelser
+# Diskrimination generelt
 
 ([Politiet](https://politi.dk/-/media/mediefiler/landsdaekkende-dokumenter/statistikker/hadforbrydelser/hadforbrydelser-2019.pdf?la=da\&hash=86E26E960D6896CD33EBBB8ECE8487499BF986D3))
 
