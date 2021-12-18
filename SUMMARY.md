@@ -18,7 +18,6 @@
 ## 🌐 Race, Etnicitet, Religion og Indvandring
 
 * [Religion](race-etnicitet-religion-og-indvandring/religion/README.md)
-  * [Generelt](race-etnicitet-religion-og-indvandring/religion/generelt.md)
   * [Kristendom](race-etnicitet-religion-og-indvandring/religion/kristendom/README.md)
     * [Bibelvers](race-etnicitet-religion-og-indvandring/religion/kristendom/bibelvers.md)
   * [Islam](race-etnicitet-religion-og-indvandring/religion/islam.md)
@@ -41,7 +40,7 @@
 
 ## 🏳🌈 LGBTQ+
 
-* [Homoseksuelle](lgbtq+/homoseksuelle.md)
+* [LGBTQ+](lgbtq+/lgbtq+.md)
 
 ## ♻ Klimaforandringer
 
@@ -67,5 +66,6 @@
 * [Organisationer og bevægelser](partier-personer-og-organisationer/organisationer-og-bevaegelser/README.md)
   * [Black Lives Matter](partier-personer-og-organisationer/organisationer-og-bevaegelser/black-lives-matter.md)
 * [Partier](partier-personer-og-organisationer/partier/README.md)
+  * [Rød og blå blok](partier-personer-og-organisationer/partier/rod-og-bla-blok.md)
   * [Stram Kurs](partier-personer-og-organisationer/partier/stram-kurs.md)
   * [Nye Borgerlige](partier-personer-og-organisationer/partier/nye-borgerlige.md)
