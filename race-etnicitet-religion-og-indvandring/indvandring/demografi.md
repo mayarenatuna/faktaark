@@ -26,7 +26,7 @@ Muslimer er **ikke** mere **heteroseksuelle** eller **ciskønnede** end Danskere
 
 **Danske kvinder** får **lige så mange** børn som **indvandrerkvinder** ([Danmarks Statistik](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/fertilitet))
 
-![Danmarks Statistik](<../../.gitbook/assets/billede (9).png>)
+![Danmarks Statistik](<../../.gitbook/assets/billede (9) (1).png>)
 
 **Indvandrerkvinders** samlede fertilitet har været **faldende siden 90'erne** ([Danmarks Statistik)](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/fertilitet)
 

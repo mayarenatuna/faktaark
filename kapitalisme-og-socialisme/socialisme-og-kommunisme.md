@@ -14,5 +14,7 @@ I [Kommunismens Grundsætninger, 18](https://www.marxists.org/archive/marx/works
 
 "Finally, when all capital, all production, all exchange have been brought together in the hands of the nation, private property will disappear of its own accord, **money will become superfluous**, and production will so expand and man so change that society will be able to slough off whatever of its old economic habits may remain." (Kan ikke finde nogen Dansk oversættelse)
 
-I modsætning til hvad folk ofte tror/siger kommunisme er, så kan kommunisme bedst defineres som et **klasseløst, statsløst og pengeløst samfund**. Det vil altså sige, at højere skatter, statslige indgreb, og gratis ting IKKE er lig med kommunisme.&#x20;
+I modsætning til hvad folk ofte tror/siger kommunisme er, så kan kommunisme bedst defineres som et **klasseløst, statsløst og pengeløst samfund**.&#x20;
+
+Det vil altså sige, at højere skatter, statslige indgreb, og gratis ting IKKE er lig med kommunisme.&#x20;
 

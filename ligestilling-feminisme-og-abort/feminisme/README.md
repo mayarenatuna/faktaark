@@ -11,4 +11,4 @@ Feminisme betyder at:
 
 "ideologi og bevægelse som arbejder for ligestilling mellem kønnene, herunder forbedrede økonomiske, politiske og sociale vilkår for kvinder"
 
-Så når der tales om feminisme, tales der altså ikke om kvindelig overlegenhed, men rettere at mænd og kvinder er lige.
+Når der tales om feminisme, tales der ikke om kvindelig overlegenhed, men rettere at mænd og kvinder er lige.
