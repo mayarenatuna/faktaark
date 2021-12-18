@@ -6,3 +6,4 @@
 
 ![Statens Serum Institut, Figur 8.25a.](<../.gitbook/assets/billede (17) (1).png>)
 
+At **begrænse** adgang til abort mindsker **ikke** mængden af folk der får fortaget aborter ([World Health Organization](https://www.who.int/health-topics/abortion#tab=tab\_3))

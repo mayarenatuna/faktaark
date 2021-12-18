@@ -71,7 +71,3 @@
   * [Rød og blå blok](partier-personer-og-organisationer/partier/rod-og-bla-blok.md)
   * [Stram Kurs](partier-personer-og-organisationer/partier/stram-kurs.md)
   * [Nye Borgerlige](partier-personer-og-organisationer/partier/nye-borgerlige.md)
-
-## Andet
-
-* [Seksualundervisning](andet/seksualundervisning.md)
