@@ -2,14 +2,14 @@
 
 ### Stemmere
 
-[Altinget](https://www.altinget.dk/artikel/hvilke-partier-stemmer-de-rigeste-og-mindst-velhavende-vaelgere-paa)
+([Altinget](https://www.altinget.dk/artikel/hvilke-partier-stemmer-de-rigeste-og-mindst-velhavende-vaelgere-paa), Holst 19)
 
 * De **rige** stemmer oftest **blåt** og de **fattige** stemmer oftest **rødt**
 * Ca. **1/4** af alle Liberal Alliances stemmere er i den højeste indkomst gruppe
 
 ### Politik
 
-[Sex & Samfund](https://www.sexogsamfund.dk/sites/default/files/sex\_og\_samfund\_normicide\_2018\_topline.pdf)
+([Sex & Samfund](https://www.sexogsamfund.dk/sites/default/files/sex\_og\_samfund\_normicide\_2018\_topline.pdf), Lindemose 18)
 
 Folk der stemmer **blå** blok, er **mere** tilbøjelige til at være:
 

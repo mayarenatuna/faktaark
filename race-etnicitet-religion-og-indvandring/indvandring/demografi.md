@@ -2,7 +2,7 @@
 
 ### Seksualitet
 
-Muslimer er **ikke** mere **heteroseksuelle** eller **ciskønnede** end Danskere, tværtimod. ([Statens Serum Institut](https://files.projektsexus.dk/2019-10-26\_SEXUS-rapport\_2017-2018.pdf), Tabel 3.01. og Tabel 4.01.) 3.01. "Andelen er markant **mindre** blandt personer med **muslimsk** kulturbaggrund end blandt personer uden en sådan baggrund (OR=0,48)." 4.01. "Andelen blandt personer med **muslimsk** kulturbaggrund er markant **større** end blandt personer uden en sådan baggrund (OR=2,11)."
+Muslimer er **ikke** mere **heteroseksuelle** eller **ciskønnede** end Danskere, tværtimod. ([Statens Serum Institut](https://files.projektsexus.dk/2019-10-26\_SEXUS-rapport\_2017-2018.pdf), Frisch et al. 19, Tabel 3.01., Tabel 4.01.) 3.01. "Andelen er markant **mindre** blandt personer med **muslimsk** kulturbaggrund end blandt personer uden en sådan baggrund (OR=0,48)." 4.01. "Andelen blandt personer med **muslimsk** kulturbaggrund er markant **større** end blandt personer uden en sådan baggrund (OR=2,11)."
 
 3.01.
 

@@ -8,4 +8,4 @@
 
 ### At være transkønnet er **ikke en psykisk sygdom**
 
-* "I Danmark blev transkønnethed **fjernet** fra den nationale liste over psykiske lidelser **1. januar 2017**, og nu har Verdenssundhedsorganisationen, **WHO**, også ændret deres kategorisering på den opdaterede liste over alverdens sygdomme, den såkaldte [International Classification of Diseases](https://icd.who.int)." ([Videnskab.dk](https://videnskab.dk/krop-sundhed/who-fjerner-transkoennethed-fra-liste-over-mentale-lidelser))
+* "I Danmark blev transkønnethed **fjernet** fra den nationale liste over psykiske lidelser **1. januar 2017**, og nu har Verdenssundhedsorganisationen, **WHO**, også ændret deres kategorisering på den opdaterede liste over alverdens sygdomme, den såkaldte International Classification of Diseases." ([Videnskab](https://videnskab.dk/krop-sundhed/who-fjerner-transkoennethed-fra-liste-over-mentale-lidelser))

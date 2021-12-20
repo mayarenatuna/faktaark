@@ -8,7 +8,7 @@ Stram Kurs mener, at børn skal strippe sig nøgen overfor alle og deres lære i
 
 ### Rasmus Paludan: Potientel pædofil
 
-* **Rasmus Paludan** har **snakket med børn** om utrolig **upassende og seksuelle** ting, gennem hans Discord server. ([Ekstrabladet](https://ekstrabladet.dk/nyheder/politik/danskpolitik/paludan-i-grov-sexsnak-med-boern/8812577))
-* **Stram Kurs-lederen inviterede en mand**, der er sigtet i flere sager om **krænkelser af børn**, med på sit fodboldhold for teenagedrenge. ([Redox](https://redox.dk/nyheder/rasmus-paludan-foerte-mistaenkt-boernekraenker-sammen-med-skoleboern/))
-* Rasmus Paludan lader **pædofil** mødes med børn, og **er klar over det** ([p77](http://p77.dk/nyheder/980/rasmus-paludan-lader-paedofil-modes-med-born-under-sine-demonstrationer))
-* På Rasmus Paludans Discord-server kan man både finde **pornoanbefalinger og invitationer til nøgenbadning**, selvom Paludan **er klar over** at en andel af serverens medlemmer er **børn, og er under den seksuellelavalder.** ([Konfront](https://konfront.dk/porno-og-noegenbadning-med-paludan/))
+* **Rasmus Paludan** har **snakket med børn** om utrolig **upassende og seksuelle** ting, gennem hans Discord server. ([Ekstrabladet](https://ekstrabladet.dk/nyheder/politik/danskpolitik/paludan-i-grov-sexsnak-med-boern/8812577), Andersen et al. 21)
+* **Stram Kurs-lederen inviterede en mand**, der er sigtet i flere sager om **krænkelser af børn**, med på sit fodboldhold for teenagedrenge. ([Redox](https://redox.dk/nyheder/rasmus-paludan-foerte-mistaenkt-boernekraenker-sammen-med-skoleboern/), Redox 19)
+* Rasmus Paludan lader **pædofil** mødes med børn, og **er klar over det** ([p77](http://p77.dk/nyheder/980/rasmus-paludan-lader-paedofil-modes-med-born-under-sine-demonstrationer), Rasmussen 19)
+* På Rasmus Paludans Discord-server kan man både finde **pornoanbefalinger og invitationer til nøgenbadning**, selvom Paludan **er klar over** at en andel af serverens medlemmer er **børn, og er under den seksuellelavalder.** ([Konfront](https://konfront.dk/porno-og-noegenbadning-med-paludan/), Konfront 21)

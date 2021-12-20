@@ -23,7 +23,6 @@
   * [Kristendom](race-etnicitet-religion-og-indvandring/religion/kristendom/README.md)
     * [Bibelvers](race-etnicitet-religion-og-indvandring/religion/kristendom/bibelvers.md)
   * [Islam](race-etnicitet-religion-og-indvandring/religion/islam.md)
-  * [Andre religioner](race-etnicitet-religion-og-indvandring/religion/andre-religioner.md)
 * [Indvandring](race-etnicitet-religion-og-indvandring/indvandring/README.md)
   * [Racisme i Danmark](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/README.md)
     * [Diskrimination generelt](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/diskrimination-generelt.md)
@@ -56,12 +55,16 @@
 
 * [Stoffer](stoffer/stoffer/README.md)
   * [Cannabis](stoffer/stoffer/cannabis/README.md)
-    * [Legalisering og dekriminalisering i andre lande](stoffer/stoffer/cannabis/legalisering-og-dekriminalisering-i-andre-lande.md)
+    * [Legalisering og dekriminalisering](stoffer/stoffer/cannabis/legalisering-og-dekriminalisering.md)
     * [Meningsmålinger](stoffer/stoffer/cannabis/meningsmalinger.md)
+    * [Forbrug](stoffer/stoffer/cannabis/forbrug.md)
   * [Tobak](stoffer/stoffer/tobak/README.md)
     * [E-cigaretter](stoffer/stoffer/tobak/e-cigaretter.md)
-    * [Cigaretter](stoffer/stoffer/tobak/cigaretter.md)
     * [Snus](stoffer/stoffer/tobak/snus.md)
+    * [Cigaretter](stoffer/stoffer/tobak/cigaretter.md)
+  * [Psykedelika](stoffer/stoffer/psykedelika/README.md)
+    * [Legalisering og dekriminalisering](stoffer/stoffer/psykedelika/legalisering-og-dekriminalisering.md)
+    * [Psykisk sygdom](stoffer/stoffer/psykedelika/psykisk-sygdom.md)
 
 ## 👥 Partier, personer og organisationer
 
