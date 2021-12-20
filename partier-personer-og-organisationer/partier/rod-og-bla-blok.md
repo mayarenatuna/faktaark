@@ -16,3 +16,9 @@ Folk der stemmer **blå** blok, er **mere** tilbøjelige til at være:
 * Homofobiske og transfobiske
 * **OK** med **mobning** og **diskrimination** af folk der er LGBTQ+&#x20;
 * Være **modstandere** af LGBTQ+ personers **basale rettigheder**
+
+### Økonomi
+
+I de sidste **19** år, har andelen af personer i **Lavindkomst** familier steget med **2,8%** under **blå** regeringer, men kun med **0,5%** under **røde**. ([Danmarks Statistik](https://www.statistikbanken.dk/IFOR12P))
+
+I de sidste **19** år, har **indkomst uligheden** steget med **≈4%** under **blå** regeringer, men kun med **≈1%** under **røde**. **** ([Danmarks Statistik](https://www.statistikbanken.dk/IFOR41))
