@@ -10,6 +10,16 @@
 * [Socialisme og kommunisme](kapitalisme-og-socialisme/socialisme-og-kommunisme.md)
 * [Ulighed](kapitalisme-og-socialisme/ulighed.md)
 
+## 👥 Politik
+
+* [Højre- eller venstreorienteret?](politik/hojre-eller-venstreorienteret.md)
+* [Organisationer og bevægelser](politik/organisationer-og-bevaegelser/README.md)
+  * [Black Lives Matter](politik/organisationer-og-bevaegelser/black-lives-matter.md)
+* [Partier](politik/partier/README.md)
+  * [Rød og blå blok](politik/partier/rod-og-bla-blok.md)
+  * [Stram Kurs](politik/partier/stram-kurs.md)
+  * [Nye Borgerlige](politik/partier/nye-borgerlige.md)
+
 ## ⚖ Ligestilling, Feminisme og Abort
 
 * [Feminisme](ligestilling-feminisme-og-abort/feminisme.md)
@@ -65,12 +75,3 @@
   * [Psykedelika](stoffer/stoffer/psykedelika/README.md)
     * [Legalisering og dekriminalisering](stoffer/stoffer/psykedelika/legalisering-og-dekriminalisering.md)
     * [Psykisk sygdom](stoffer/stoffer/psykedelika/psykisk-sygdom.md)
-
-## 👥 Partier, personer og organisationer
-
-* [Organisationer og bevægelser](partier-personer-og-organisationer/organisationer-og-bevaegelser/README.md)
-  * [Black Lives Matter](partier-personer-og-organisationer/organisationer-og-bevaegelser/black-lives-matter.md)
-* [Partier](partier-personer-og-organisationer/partier/README.md)
-  * [Rød og blå blok](partier-personer-og-organisationer/partier/rod-og-bla-blok.md)
-  * [Stram Kurs](partier-personer-og-organisationer/partier/stram-kurs.md)
-  * [Nye Borgerlige](partier-personer-og-organisationer/partier/nye-borgerlige.md)
