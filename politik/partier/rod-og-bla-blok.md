@@ -7,6 +7,8 @@
 * De **rige** stemmer oftest **blåt** og de **fattige** stemmer oftest **rødt**
 * Ca. **1/4** af alle Liberal Alliances stemmere er i den højeste indkomst gruppe
 
+Vælgere der stemmer på **røde** partier er **≈35%** mere tilbøjelige til at have en **videregående uddannelse** end vælgere der stemmer på **blå** partier ([Københavns Universitet](https://cvap.polsci.ku.dk/forskning/valgkamp/presse/Social\_baggrund\_afg\_r\_igen\_partivalg\_-\_CVAP\_i\_Berlingske.pdf), Winther 11)
+
 ### Politik
 
 ([Sex & Samfund](https://www.sexogsamfund.dk/sites/default/files/sex\_og\_samfund\_normicide\_2018\_topline.pdf), Lindemose 18)
