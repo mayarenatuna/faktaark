@@ -4,7 +4,7 @@
 
 #### Uddannelse
 
-**Højtuddannede** i **USA** er **≈50%** mere tilbøjelige til at være "liberal" (**venstreorienterede)** end "conservative" (**højreorienterede**) ([Pew Research Center](https://www.pewresearch.org/politics/2016/04/26/a-wider-ideological-gap-between-more-and-less-educated-adults/), Pew Research Center 16)
+**Højtuddannede** i **USA** er **≈50%** mere tilbøjelige til at være "liberal" (**venstreorienterede**) **** end "conservative" (**højreorienterede**) ([Pew Research Center](https://www.pewresearch.org/politics/2016/04/26/a-wider-ideological-gap-between-more-and-less-educated-adults/), Pew Research Center 16)
 
 #### Intelligens
 
