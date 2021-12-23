@@ -32,7 +32,6 @@
 * [Religion](race-etnicitet-religion-og-indvandring/religion/README.md)
   * [Kristendom](race-etnicitet-religion-og-indvandring/religion/kristendom/README.md)
     * [Bibelvers](race-etnicitet-religion-og-indvandring/religion/kristendom/bibelvers.md)
-  * [Islam](race-etnicitet-religion-og-indvandring/religion/islam.md)
 * [Indvandring](race-etnicitet-religion-og-indvandring/indvandring/README.md)
   * [Racisme i Danmark](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/README.md)
     * [Diskrimination generelt](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/diskrimination-generelt.md)
@@ -72,4 +71,4 @@
     * [Snus](stoffer/stoffer/tobak/snus.md)
     * [E-cigaretter](stoffer/stoffer/tobak/e-cigaretter.md)
   * [Psykedelika](stoffer/stoffer/psykedelika/README.md)
-    * [Positive egenskaber](stoffer/stoffer/psykedelika/positive-egenskaber.md)
+    * [Positive egenskaber](stoffer/stoffer/psykedelika/psykisk-sygdom.md)

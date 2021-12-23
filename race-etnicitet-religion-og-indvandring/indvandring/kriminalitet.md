@@ -6,5 +6,5 @@
 
 ([Danmarks Statistik](https://www.dst.dk/ext/formid/saerkoersel-dr--xlsx))
 
-* Risikoen for at en anholdelse ender uden dom, er **88%** højere for ikke-vestlige efterkommere end for personer af dansk oprindelse
-* Risikoen for at en anholdelse ender uden dom, er **86%** højere for ikke-vestlige indvandrere end for personer af dansk oprindelse
+* Risikoen for at en anholdelse ender uden dom, er **88%** højere for ikke-vestlige **efterkommere** end for personer af **dansk** oprindelse
+* Risikoen for at en anholdelse ender uden dom, er **86%** højere for ikke-vestlige **indvandrere** end for personer af **dansk** oprindelse

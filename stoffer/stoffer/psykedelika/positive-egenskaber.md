@@ -1,2 +1,0 @@
-# Psykisk sygdom
-
