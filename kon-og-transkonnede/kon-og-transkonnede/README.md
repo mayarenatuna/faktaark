@@ -8,10 +8,9 @@ Transpersoner udgør **≈0,5-2%** af befolkningen. Konservative estimater siger
 
 ([Statens Serum Institut](https://files.projektsexus.dk/2019-10-26\_SEXUS-rapport\_2017-2018.pdf), Frisch et al. 19)
 
-Transkønnede er i gennemsnit mere tilbøjelige til at:
+Transkønnede er mere tilbøjelige til at:
 
 * Have psykiske problemer
-* Have haft selvmordstanker, har gjordt skade på sig selv, og forsøgt at begå selvmord
+* Have haft selvmordstanker, have haft gjordt skade på sig selv, eller forsøgt at begå selvmord
 * Opleve seksuel chikane på arbejdspladsen
 * Blive udsat for seksuelle overgreb
-
