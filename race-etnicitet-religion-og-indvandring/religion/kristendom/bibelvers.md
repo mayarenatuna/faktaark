@@ -1,5 +1,9 @@
 # Bibelvers
 
+### LGBTQ+
+
+
+
 ### Var Jesus Marxist?
 
 **Markusevangeliet 10:21-22** V21: "Og Jesus så på ham og fattede kærlighed til ham og sagde til ham: »Én ting mangler du: Gå hen og sælg alt, hvad du har, og giv det til de fattige, så vil du have en skat i himlen." V22: "Men han blev nedslået over det svar og gik bedrøvet bort, for han var meget velhavende."
@@ -15,4 +19,3 @@
 **Apostlenes Gerninger 5:29** "Peter og apostlene svarede: »Man bør adlyde Gud mere end mennesker."
 
 **Paulus' Brev til Efeserne 6:12** "Thi for os står kampen ikke mod kød og blod, men mod myndigheder og magter, mod verdensherskerne i dette mørke, mod ondskabens åndemagter i himmelrummet."
-
