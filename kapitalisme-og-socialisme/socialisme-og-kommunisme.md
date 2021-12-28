@@ -16,5 +16,4 @@ I [Kommunismens Grundsætninger, 18](https://www.marxists.org/archive/marx/works
 
 I modsætning til hvad folk ofte tror/siger kommunisme er, så kan kommunisme bedst defineres som et **klasseløst, statsløst og pengeløst samfund**.&#x20;
 
-Det vil altså sige, at højere skatter, statslige indgreb, og gratis ting **ikke** er i lig med kommunisme.&#x20;
-
+Det vil altså sige, at højere skatter, statslige indgreb, og gratis ting **ikke** er = kommunisme.&#x20;
