@@ -2,10 +2,10 @@
 
 ### Politik
 
-Stram Kurs mener at [kønsdysfori ](https://lgbt.dk/ordbog/koensdysfori/)skal behandles ved brug af [omvendingsterapi ](broken-reference)som er en yderst farlig og ineffektiv metode. ([Stram Kurs](https://stramkurs.dk/vores-politik/koen-og-sex/)) "I fraværet af medførte kønsmisdannelser eller lignende biologiske sygdomme **bør en borger ikke kunne vælge sit køn, men kan få hjælp til at acceptere sit køn.**"
+Stram Kurs mener at [kønsdysfori ](https://lgbt.dk/ordbog/koensdysfori/)skal behandles ved brug af [omvendelsesterapi ](../../lgbtq+/omvendelsesterapi.md)som er en yderst farlig og ineffektiv metode. ([Stram Kurs](https://stramkurs.dk/vores-politik/koen-og-sex/)) "I fraværet af medførte kønsmisdannelser eller lignende biologiske sygdomme **bør en borger ikke kunne vælge sit køn, men kan få hjælp til at acceptere sit køn.**"
 
 {% hint style="warning" %}
-&#x20;At "**acceptere sit køn**" er blot en eufemisme for **omvendingsterapi**.
+&#x20;At "**acceptere sit køn**" er blot en eufemisme for **omvendelsesterapi**
 {% endhint %}
 
 Stram Kurs mener, at børn skal strippe sig **nøgen** overfor andre elever og deres lærer i **2-3** skoletimer om ugen, og hvis de ikke makker ret, så vil det medføre i førstegangstilfælde **obligatorisk bortvisning** fra skolen, og **bortvisning fra alle grundskoler og friskoler** ved gentagelse ([Stram Kurs](https://stramkurs.dk/vores-politik/skolepolitik/))
