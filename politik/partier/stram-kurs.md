@@ -2,7 +2,7 @@
 
 ### Politik
 
-Stram Kurs mener at [kønsdysfori ](https://lgbt.dk/ordbog/koensdysfori/)skal behandles ved brug af [omvendingsterapi](https://en.wikipedia.org/wiki/Conversion\_therapy), som er en yderst farlig og ineffektiv metode, der b.l.a. har ledt til [selvmord blandt homoseksuelle](https://www.information.dk/udland/2015/04/omvendingsterapi-homoer-kan-ende-selvmord) ([Stram Kurs](https://stramkurs.dk/vores-politik/koen-og-sex/)) "I fraværet af medførte kønsmisdannelser eller lignende biologiske sygdomme **bør en borger ikke kunne vælge sit køn, men kan få hjælp til at acceptere sit køn.**"
+Stram Kurs mener at [kønsdysfori ](https://lgbt.dk/ordbog/koensdysfori/)skal behandles ved brug af [omvendingsterapi ](broken-reference)som er en yderst farlig og ineffektiv metode. ([Stram Kurs](https://stramkurs.dk/vores-politik/koen-og-sex/)) "I fraværet af medførte kønsmisdannelser eller lignende biologiske sygdomme **bør en borger ikke kunne vælge sit køn, men kan få hjælp til at acceptere sit køn.**"
 
 {% hint style="warning" %}
 &#x20;At "**acceptere sit køn**" er blot en eufemisme for **omvendingsterapi**.

@@ -46,7 +46,7 @@
   * [Medicinsk konsensus](kon-og-transkonnede/kon-og-transkonnede/medicinsk-konsensus.md)
   * [Akademisk konsensus](kon-og-transkonnede/kon-og-transkonnede/akademisk-konsensus.md)
   * [Behandling og rettigheder](kon-og-transkonnede/kon-og-transkonnede/behandling-og-rettigheder.md)
-  * [Toiletter](kon-og-transkonnede/kon-og-transkonnede/toiletter.md)
+  * [Myter](kon-og-transkonnede/kon-og-transkonnede/myter.md)
 
 ## 🏳🌈 LGBTQ+
 
