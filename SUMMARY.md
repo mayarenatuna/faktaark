@@ -13,6 +13,7 @@
 ## 👥 Politik
 
 * [Højre- eller venstreorienteret?](politik/hojre-eller-venstreorienteret.md)
+* [Højreekstremisme](politik/hojreekstremisme.md)
 * [Organisationer og bevægelser](politik/organisationer-og-bevaegelser/README.md)
   * [Black Lives Matter](politik/organisationer-og-bevaegelser/black-lives-matter.md)
 * [Partier](politik/partier/README.md)
@@ -25,6 +26,7 @@
 * [Feminisme](ligestilling-feminisme-og-abort/feminisme.md)
   * [Stillinger](ligestilling-feminisme-og-abort/feminisme/stillinger.md)
   * [Voldtægt](ligestilling-feminisme-og-abort/feminisme/voldtaegt.md)
+  * [Løn](ligestilling-feminisme-og-abort/feminisme/lon.md)
 * [Abort](ligestilling-feminisme-og-abort/abort.md)
 
 ## 🌐 Race, Etnicitet, Religion og Indvandring
@@ -73,3 +75,7 @@
     * [E-cigaretter](stoffer/stoffer/tobak/e-cigaretter.md)
   * [Psykedelika](stoffer/stoffer/psykedelika/README.md)
     * [Positive egenskaber](stoffer/stoffer/psykedelika/psykisk-sygdom.md)
+
+## ❓ Specifikke afkræftelser
+
+* [Liste](specifikke-afkraeftelser/liste.md)

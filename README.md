@@ -1,8 +1,8 @@
 # Information
 
-#### Om mig
+### Om mig
 
-Du kan kontakte mig på Discord ved at tilføje: **ma#1000**
+Du kan kontakte mig på **Discord** ved at tilføje: **ma#1000**
 
 ## Hvad er meningen med dette?
 

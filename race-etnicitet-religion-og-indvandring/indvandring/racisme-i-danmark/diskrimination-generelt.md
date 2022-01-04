@@ -1,6 +1,6 @@
 # Diskrimination generelt
 
-([Politiet](https://politi.dk/-/media/mediefiler/landsdaekkende-dokumenter/statistikker/hadforbrydelser/hadforbrydelser-2019.pdf?la=da\&hash=86E26E960D6896CD33EBBB8ECE8487499BF986D3), Nationalt Forebyggelsescenter 20)
+([Politiet](https://politi.dk/-/media/mediefiler/landsdaekkende-dokumenter/statistikker/hadforbrydelser/hadforbrydelser-2019.pdf?la=da\&hash=86E26E960D6896CD33EBBB8ECE8487499BF986D3), POLSAS 20)
 
 * **≈60%** af alle religiøst motiverede hadforbrydelser, var mod muslimer
 * **≈30%** af alle religiøst motiverede hadforbrydelser, var mod jøder
