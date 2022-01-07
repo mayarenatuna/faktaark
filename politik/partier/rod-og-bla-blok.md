@@ -5,7 +5,7 @@
 ([Altinget](https://www.altinget.dk/artikel/hvilke-partier-stemmer-de-rigeste-og-mindst-velhavende-vaelgere-paa), Holst 19)
 
 * De **rige** stemmer oftest **blåt** og de **fattige** stemmer oftest **rødt**
-* Ca. **1/4** af alle Liberal Alliances stemmere er i den **højeste** indkomst gruppe
+* På trods af at udgøre **2%** af befolkningen, er ca. **1/4** af alle Liberal Alliances stemmere er i den **højeste** indkomst gruppe
 
 Vælgere der stemmer på **røde** partier er **≈35%** mere tilbøjelige til at have en **videregående uddannelse** end vælgere der stemmer på **blå** partier ([Københavns Universitet](https://cvap.polsci.ku.dk/forskning/valgkamp/presse/Social\_baggrund\_afg\_r\_igen\_partivalg\_-\_CVAP\_i\_Berlingske.pdf), Winther 11)
 
