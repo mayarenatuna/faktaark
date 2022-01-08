@@ -78,4 +78,4 @@
 
 ## ❓ Specifikke afkræftelser
 
-* [Liste](specifikke-afkraeftelser/liste.md)
+* [Gendrivelser for højreorienterede talepunkter](specifikke-afkraeftelser/gendrivelser-for-hojreorienterede-talepunkter.md)
