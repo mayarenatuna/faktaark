@@ -7,3 +7,7 @@ Der har **aldrig** været nogen sager i Danmark om **transkvinder** der bruger d
 ![Danmarks Statistik](<../../.gitbook/assets/billede (1).png>)
 
 ![Statens Serum Institut, Frisch et al. 19, Tabel 7.08](<../../.gitbook/assets/billede (6).png>)
+
+### Midlertidighed
+
+**91%** af **transkvinder-** og **mænd**, **** og **76%** af **ikke-ciskønnede** vidste at de var transkønnede **før** de fyldte **16 år** ([LGBT+ Danmark](https://lgbt.dk/wp-content/uploads/2021/06/Stop-diskrimination-i-skolen-2021.pdf), Juhl 21)

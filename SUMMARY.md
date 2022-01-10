@@ -53,6 +53,7 @@
 ## 🏳🌈 LGBTQ+
 
 * [LGBTQ+](lgbtq+/homoseksuelle.md)
+* [Stigmatisering, mobning og diskrimination](lgbtq+/stigmatisering-mobning-og-diskrimination.md)
 * [Omvendelsesterapi](lgbtq+/omvendelsesterapi.md)
 
 ## ♻ Klimaforandringer
@@ -75,7 +76,3 @@
     * [E-cigaretter](stoffer/stoffer/tobak/e-cigaretter.md)
   * [Psykedelika](stoffer/stoffer/psykedelika/README.md)
     * [Positive egenskaber](stoffer/stoffer/psykedelika/psykisk-sygdom.md)
-
-## ❓ Specifikke afkræftelser
-
-* [Gendrivelser for højreorienterede talepunkter](specifikke-afkraeftelser/gendrivelser-for-hojreorienterede-talepunkter.md)
