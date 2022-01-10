@@ -17,6 +17,6 @@ Andelen af befolkningen der er **transkønnede** svarer til ca. **halvdelen** af
 * Modtaget betaling for seksuelle ydelser
 * Blevet udsat for et seksuelt overgreb
 * Været i voldelige parforhold
-* Udført selvskade
+* Gjort selvskade
 * Selvmordstanker
 * Forsøgt at begå selvmord
