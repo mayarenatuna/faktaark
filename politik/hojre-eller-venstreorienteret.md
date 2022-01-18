@@ -13,3 +13,7 @@ Personer med social-kulturelle, økonomisk-hierarkiske **højreorienterede** hol
 Personer med **højreorienterede** ideologiske holdninger og racemæssige fordomme har lavere **følelsesmæssig intelligens** ([Elsevier](https://www.sciencedirect.com/science/article/abs/pii/S0191886917300181), Onraet et al. 17)
 
 Kæmpe undersøgelse i **Storbrittanien** og **USA** illustrerer at **lav intelligens** i barndommen forudsiger **racisme**, **anti-homoseksuelle fordomme**, **og autoritarisme** i voksenalderen gennem **konservativ** ideologi ([Psychological Science](https://journals.sagepub.com/doi/abs/10.1177/0956797611421206), Hodson et al. 12)
+
+#### Ulækre
+
+**Højreorienterede autoritære** er **mere** tilbøjelige til at være pædofile, zoofile, og at kunne lide bæ sex. ([Knowingless](https://knowingless.com/2021/10/26/political-compass-fetishes/), Aella 21)
