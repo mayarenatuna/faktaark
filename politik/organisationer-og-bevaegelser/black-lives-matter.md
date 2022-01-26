@@ -2,16 +2,12 @@
 
 ### Fredelige protester
 
-#### USA:
-
 ([ACLED](https://acleddata.com/2020/09/03/demonstrations-political-violence-in-america-new-data-for-summer-2020/), ACLED 20)
 
 * **93%** af **BLM-protesterne** I USA har været **fredelige**&#x20;
 * Rapporten angiver, at flere end **2.400** steder rapporterede om **fredelige** protester, mens omkring **220** rapporterede om "**voldelige demonstrationer**"
 
 ![ACLED, ACLED 20, Sommer 2020](<../../.gitbook/assets/billede (20).png>)
-
-#### Danmark:
 
 **Københavns Politi** angiver at demonstrationerne var **fredelige** ([TV2](https://www.tv2lorry.dk/koebenhavn/lige-nu-2000-demonstrerer-i-koebenhavn-efter-sort-amerikaners-doed-efter-anholdelse), Beck 20) “Ifølge Henrik Svejstrup, vagtchef ved Københavns Politi, er demonstrationen forløbet **”helt og aldeles fredeligt”**, og omkring klokken 16 befinder demonstranterne sig foran Christiansborg.”&#x20;
 

@@ -16,6 +16,7 @@
 * [Højreekstremisme](politik/hojreekstremisme.md)
 * [Organisationer og bevægelser](politik/organisationer-og-bevaegelser/README.md)
   * [Black Lives Matter](politik/organisationer-og-bevaegelser/black-lives-matter.md)
+  * [Generation Identitær](politik/organisationer-og-bevaegelser/generation-identitaer.md)
 * [Partier](politik/partier/README.md)
   * [Rød og blå blok](politik/partier/rod-og-bla-blok.md)
   * [Stram Kurs](politik/partier/stram-kurs.md)
@@ -63,6 +64,7 @@
   * [Naturkatastrofer](klimaforandringer/beviser/naturkatastrofer.md)
   * [Stigende havniveauer](klimaforandringer/beviser/stigende-havniveauer.md)
   * [Gletsjere smelter](klimaforandringer/beviser/gletsjere-smelter.md)
+* [Fossile brændstoffer](klimaforandringer/fossile-braendstoffer.md)
 
 ## 🚬 Stoffer
 

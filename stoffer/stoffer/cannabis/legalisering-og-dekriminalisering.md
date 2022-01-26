@@ -51,4 +51,4 @@ Stater i **USA** der har legaliseret **cannabis** har set **reduktioner** i brug
 * Fjorten (**93%**) af undersøgelserne rapporterer at **narkotikalovhåndhævelse** har en **dårlig** virkning på niveauer af **vold**
 * Ti (**91%**) af de kvalitative analyser finder en signifikant **sammenhæng** mellem **narkotikahåndhævelse** og **vold** på **narkotikamarkedet**
 
-Efter **legalisering** af cannabis i staten Colorado, har man set en **ubetydelig lille stigning** i brug blandt voksne (**2%**) og et fald (**2%**) for teenagere ([SAMHSA](https://www.samhsa.gov/data/sites/default/files/NSDUHsaePercents2016/NSDUHsaePercents2016.pdf), SAMHSA 15-16)
+Efter **legalisering** af cannabis i staten Colorado, har man set en **ubetydelig lille stigning** i brug blandt voksne (**2%**) og et fald (**2%**) blandt teenagere ([SAMHSA](https://www.samhsa.gov/data/sites/default/files/NSDUHsaePercents2016/NSDUHsaePercents2016.pdf), SAMHSA 15-16)
