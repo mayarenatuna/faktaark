@@ -1,2 +1,0 @@
-# Kritik af kapitalisme
-

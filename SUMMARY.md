@@ -6,7 +6,6 @@
 
 ## 💲 Kapitalisme og Socialisme
 
-* [Kritik af kapitalisme](kapitalisme-og-socialisme/kritik-af-kapitalisme.md)
 * [Socialisme og kommunisme](kapitalisme-og-socialisme/socialisme-og-kommunisme.md)
 * [Ulighed](kapitalisme-og-socialisme/ulighed.md)
 
