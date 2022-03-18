@@ -12,6 +12,6 @@ I følge Sundhedsstyrelsen, så anvender **31%** af folk i gruppen **15-29** år
 
 Der står i dataindsamlingen at respondenterne udelukkende består af **15-29** årige, men hvis vi beregner gennemsnittet af aldersgrupperne, så kommer vi frem til at det kun er 28,9%, og ikke 31% (21,5 + 36,4 + 28,8 / 3 = 28,9%)
 
-De skriver at der er sket en stigning på næsten **15%** på halvandet år, men denne stigning skyldes næsten eksklusivt at unge nu anvender snus- og tykketobak, fremfor cigaretter. Antallet af unge der ryger er faldet med **≈11,5%** i det sidste år, **** hvorimod andellen af unge der bruger snus- og tykketobak er steget med **25%** i det sidste år, **** altså ikke en negativ udvikling.
+De skriver at der er sket en stigning på næsten **15%** på halvandet år, men denne stigning skyldes næsten eksklusivt at unge nu anvender snus- og tykketobak, fremfor cigaretter. Antallet af unge der ryger er faldet med **≈11,5%** i det sidste år.
 
 Sundhedsstyrelsen dæmoniserer rygning, og skriver at **13.600** mennesker dør om året som følge af rygning. Man har ikke kunne bekræfte, at nogen er døde af brugen af snus- og tykketobak, så hvorfor skære alle tobaksprodukter over med en kam hvis cigaretter er djævelen?

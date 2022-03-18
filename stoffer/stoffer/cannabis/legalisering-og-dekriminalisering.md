@@ -14,8 +14,6 @@ I USA, har **dekriminalisering** af cannabis i de sydlige stater der grænser op
 
 * Voldelige forbrydelser såsom drab og røverier **falder**
 * Antallet af drab **falder**&#x20;
-* Mængden af beslaglagt kokain ved grænsen **falder**
-* Prisen på kokain **øges**
 
 ([Drug Policy Alliance](https://drugpolicy.org/sites/default/files/DPA\_Fact\_Sheet\_Portugal\_Decriminalization\_Feb2015.pdf), Drug Policy Alliance, 15)
 

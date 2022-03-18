@@ -16,4 +16,4 @@ Kæmpe undersøgelse i **Storbrittanien** og **USA** illustrerer at **lav intell
 
 #### Ulækre
 
-**Højreorienterede autoritære** er **mere** tilbøjelige til at være pædofile, zoofile, og at kunne lide bæ sex. ([Knowingless](https://knowingless.com/2021/10/26/political-compass-fetishes/), Aella 21)
+**Højreorienterede autoritære** er **mere** tilbøjelige til at være pædofile, zoofile, og at kunne lide bæ sex ([Knowingless](https://knowingless.com/2021/10/26/political-compass-fetishes/), Aella 21)

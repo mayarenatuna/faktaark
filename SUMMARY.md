@@ -77,4 +77,3 @@
     * [E-cigaretter](stoffer/stoffer/tobak/e-cigaretter.md)
   * [Psykedelika](stoffer/stoffer/psykedelika/README.md)
     * [Positive egenskaber](stoffer/stoffer/psykedelika/psykisk-sygdom.md)
-  * [Alkohol](stoffer/stoffer/alkohol.md)

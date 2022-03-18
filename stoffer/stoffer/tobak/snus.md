@@ -7,7 +7,7 @@
 * **Snus** er **ikke** en risikofaktor for **spiserørskræft** ([International Journal of Cancer](https://onlinelibrary.wiley.com/doi/full/10.1002/\(SICI\)1097-0215\(20000201\)85%3A3%3C340%3A%3AAID-IJC8%3E3.0.CO%3B2-N), Lagergren et al. 00) "The risk of oesophageal adenocarcinoma was not associated with snuff or alcohol use, and the association with smoking was weak or absent."
 * **Snus** er **ikke** en risikofaktor for **kræft i bugspytkirtlen** ([National Library of Medicine](https://pubmed.ncbi.nlm.nih.gov/28486772/), Araghi et al. 17) "During **9,276,054** person-years of observation, 1,447 men developed pancreatic cancer. Compared to never-snus use, current snus use was **not** associated with risk of pancreatic cancer (HR 0.96, 95% CI 0.83-1.11) after adjustment for smoking."
 
-Kræftens Bekæmpelse har **ikke** kunne bekræfte at **snus** øger risikoen for kræft, og skriver følgende: "Der er mistanke om, at snus og tyggetobak øger risikoen for kræft, **men der mangler mere forskning på området.**" ([Kræftens Bekæmpelse](https://www.cancer.dk/forebyg/undga-roeg-og-rygning/snus/om-snus/), Kræftens Bekæmpelse)
+Kræftens Bekæmpelse har **ikke** kunne bekræfte at **snus** eller **nikotinposer** øger risikoen for kræft ([Kræftens Bekæmpelse](https://www.cancer.dk/forebyg/undga-roeg-og-rygning/snus/om-snus/), Kræftens Bekæmpelse) "**Usikkerhed** om kræftrisikoen: **** Der er mistanke om, at snus og tyggetobak øger risikoen for kræft, **men der mangler mere forskning på området.** Nikotinposer er så nyt et produkt, og derfor ved man endnu **ikke** noget om **sygdomsrisikoen** på kort og langt sigt."
 
 ### Problemer i munden
 
