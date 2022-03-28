@@ -6,7 +6,6 @@
 
 ## 💲 Kapitalisme og Socialisme
 
-* [Socialisme og kommunisme](kapitalisme-og-socialisme/socialisme-og-kommunisme.md)
 * [Ulighed](kapitalisme-og-socialisme/ulighed.md)
 
 ## 👥 Politik
