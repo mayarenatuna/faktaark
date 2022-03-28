@@ -31,14 +31,17 @@
 ## 🌐 Race, Etnicitet, Religion og Indvandring
 
 * [Religion](race-etnicitet-religion-og-indvandring/religion/README.md)
+  * [Islam](race-etnicitet-religion-og-indvandring/religion/islam.md)
   * [Kristendom](race-etnicitet-religion-og-indvandring/religion/kristendom/README.md)
     * [Bibelvers](race-etnicitet-religion-og-indvandring/religion/kristendom/bibelvers.md)
 * [Indvandring](race-etnicitet-religion-og-indvandring/indvandring/README.md)
+  * [Effekt](race-etnicitet-religion-og-indvandring/indvandring/effekt.md)
+  * [Integration](race-etnicitet-religion-og-indvandring/indvandring/integration.md)
+  * [Demografi](race-etnicitet-religion-og-indvandring/indvandring/demografi.md)
   * [Racisme i Danmark](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/README.md)
     * [Diskrimination generelt](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/diskrimination-generelt.md)
     * [På arbejdsmarkedet og i handel](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/pa-arbejdsmarkedet-og-i-handel.md)
     * [Ude på institutionerne](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/ude-pa-institutionerne.md)
-  * [Demografi](race-etnicitet-religion-og-indvandring/indvandring/demografi.md)
   * [Kriminalitet](race-etnicitet-religion-og-indvandring/indvandring/kriminalitet.md)
 
 ## ⚧ Køn og Transkønnede
