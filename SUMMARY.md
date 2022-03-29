@@ -31,9 +31,9 @@
 ## 🌐 Race, Etnicitet, Religion og Indvandring
 
 * [Religion](race-etnicitet-religion-og-indvandring/religion/README.md)
-  * [Islam](race-etnicitet-religion-og-indvandring/religion/islam.md)
   * [Kristendom](race-etnicitet-religion-og-indvandring/religion/kristendom/README.md)
     * [Bibelvers](race-etnicitet-religion-og-indvandring/religion/kristendom/bibelvers.md)
+  * [Islam](race-etnicitet-religion-og-indvandring/religion/islam.md)
 * [Indvandring](race-etnicitet-religion-og-indvandring/indvandring/README.md)
   * [Effekt](race-etnicitet-religion-og-indvandring/indvandring/effekt.md)
   * [Integration](race-etnicitet-religion-og-indvandring/indvandring/integration.md)
