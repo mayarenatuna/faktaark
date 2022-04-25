@@ -1,14 +1,5 @@
 # Integration
 
-### Økonomi
-
-Iflg. Finansministeriet vil ikke-vestlig indvandring og efterkommere koste varigt **33 mia. kr** om året frem til år **2100**, ([Finansministeriet](https://fm.dk/nyheder/nyhedsarkiv/2018/maj/ikkevestlig-indvandring-og-efterkommere-koster-varigt-33-mia-kr-om-aaret-frem-til-aar-2100/), Finansministeriet 18) men dette tager ikke højde for aldersforskellen mellem ikke-vestlige efterkommere og etnisk danske personer, hvor unge **under 25 år** udgør en **meget** større andel af ikke-vestlige efterkommere, end for gruppen med dansk oprindelse, ([Danmarks Statistik](https://www.statistikbanken.dk/statbank5a/SelectVarVal/Define.asp?MainTable=FOLK1C)) hvor de fleste pr. definition er en udgift, pga. uddannelse og begrænset indkomst. Iflg. Finansministeriet kan **17** ud af de **36 mia.** kr henføres til ikke-vestlige efterkommere der som nævnt har en yngre - og dermed 'dyrere' aldersprofil end etnisk danske personer. ([Finansministeriet](https://fm.dk/media/15363/Fremskrivningafindvandreresnettobidragtildeoffentligefinanser\_OeA\_maj2018.pdf), Finansministeriet 18) Selv hvis udgangspunktet er de **36** mia. kr, så er det en **lille** andel af de samlede offentlige udgifter i Danmark, der hvert år runder ca. **1.100** mia. kr. ([Danmarks Statistik](https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=20049)) I 2014, gav danskerne giver også et underskud på **17 mia.** kr ([Berlingske](https://www.berlingske.dk/samfund/danskerne-giver-ogsaa-underskud-kostede-statskassen-17-milliarder-kroner), Randeris 17), og der estimeres at være et skjult bidrag fra ikke-vestlige indvandre på over **6 mia.** kr ([Roskilde Universitet](https://rucforsk.ruc.dk/ws/portalfiles/portal/56209997/Ikke\_vestlige\_indvandreres\_skjulte\_bidrag\_til\_samfunds\_konomien.pdf), Petrovski 15)
-
-([Arbejderbevægelsens Erhvervsråd](https://www.ae.dk/analyse/2022-01-beskaeftigelsen-for-ikke-vestlige-indvandrere-slaar-ny-rekord), Bjørsted 22)
-
-* I **2022**, er beskæftigelsesfrekvensen for **ikke-vestlige** indvandrere det højeste den har været i **13 år**
-* Fra andet kvartal **2020** til tredje kvartal **2021** er lønmodtagerbeskæftigelsen for **ikke-vestlige** indvandrere steget i **18 ud af 19** brancher.
-
 ### Uddannelse
 
 ([Det Nationale Integrationsbarometer](https://integrationsbarometer.dk/udviklingsrapporter/hele-landet-0322.pdf), Det Nationale Integrationsbarometer 22)
