@@ -6,4 +6,4 @@ Der har **aldrig** været nogen sager i Danmark om **transkvinder** der bruger d
 
 ![Danmarks Statistik](<../../.gitbook/assets/billede (1).png>)
 
-![Statens Serum Institut, Frisch et al. 19, Tabel 7.08](<../../.gitbook/assets/billede (6).png>)
+![Statens Serum Institut, Frisch et al. 19, Tabel 7.08](<../../.gitbook/assets/billede (6) (1).png>)
