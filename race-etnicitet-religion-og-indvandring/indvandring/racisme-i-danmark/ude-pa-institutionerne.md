@@ -11,6 +11,6 @@ Kommunalpolitikere med etnisk **majoritetsbaggrund** svarer godt **17** **pct. p
 
 ([Aarhus Universitet](https://academic.oup.com/jpart/article/29/3/429/5307547?login=true), Andersen et al. 19)
 
-*
-* Offentlige ansatte havde har en tendens til at diskriminere imod minoriteter når de har travlt
+* **9,6%** flere lærere vurderede, at de havde plads til drengen, når han hed **Mathias**, end når han hed **Yousef**, viser forskernes beregningerne. Det betyder, at der var en forskel på **10 pct. point** ([Videnskab](https://videnskab.dk/kultur-samfund/folkeskolelaerere-diskriminerer-drenge-med-mellemoestlige-navne), Anne 19)
+* Offentlige ansatte havde har en tendens til at **diskriminere** imod minoriteter **når de har travlt**
 
