@@ -1,5 +1,8 @@
 # Stillinger
 
-**Mænd** udgør **4/5** af alle **bestyrelsesmedlemmer**, og **85%** af alle **direktører**. Andelen af bestyrelsesmedlemmer har **ikke** ændret sig over de sidste **5 år**, og andelen af direktører har kun ændret sig med **1 pct. point** ([Danmarks Statistik](https://www.statistikbanken.dk/LIGEDI6))
-
-![Danmarks Statistik](<../../.gitbook/assets/billede (10).png>)
+* **19%** af bestyrelsesmedlemmer er kvinder ([Danmarks Statistik](https://www.statistikbanken.dk/LIGEDI6))
+* **15%** af direktører er kvinder ([Danmarks Statistik](https://www.statistikbanken.dk/LIGEDI6))
+* **14,3%** af borgmestre er kvinder ([Danmarks Statistik](https://www.statistikbanken.dk/LIGEDI5))
+* **16,7%** af departementschefer er kvinder ([Danmarks Statistik](https://www.statistikbanken.dk/LIGEDI5))
+* **14,3%** af borgmestre er kvinder ([Danmarks Statistik](https://www.statistikbanken.dk/LIGEDI5))
+* **26,3%** af højesteretsdommere er kvinder ([Danmarks Statistik](https://www.statistikbanken.dk/LIGEDI5))
