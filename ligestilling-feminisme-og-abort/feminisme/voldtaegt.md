@@ -8,7 +8,7 @@ Kun **0,4-9%** af voldtægtsforbrydere bliver dømt ([Information](https://www.i
 
 **91,3%** af voldtægtsofre er kvinder ([Danmarks Statistik](https://www.statistikbanken.dk/STRAF5))
 
-Mænd er mere tilbøjelige til at blive voldtaget dem selv end at blive anklaget falsk for voldtægt ([Det Kriminal Præventive Råd](https://dkr.dk/media/7429/voldtaegt-der-anmeldes-ii-falsk.pdf), Martinussen et al. 09, [Danmarks Statistik](https://www.statistikbanken.dk/STRAF5))
+Mænd er mere tilbøjelige til at blive voldtaget end at blive anklaget falsk for voldtægt ([Det Kriminal Præventive Råd](https://dkr.dk/media/7429/voldtaegt-der-anmeldes-ii-falsk.pdf), Martinussen et al. 09, [Danmarks Statistik](https://www.statistikbanken.dk/STRAF5))
 
 ### Falske anmeldelser
 

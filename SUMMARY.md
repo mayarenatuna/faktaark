@@ -7,6 +7,7 @@
 ## 💲 Kapitalisme og Socialisme
 
 * [Ulighed](kapitalisme-og-socialisme/ulighed.md)
+* [Arbejderkooperativer](kapitalisme-og-socialisme/arbejderkooperativer.md)
 
 ## 👥 Politik
 
