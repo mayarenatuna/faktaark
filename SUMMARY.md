@@ -81,3 +81,8 @@
     * [E-cigaretter](stoffer/stoffer/tobak/e-cigaretter.md)
   * [Psykedelika](stoffer/stoffer/psykedelika/README.md)
     * [Positive egenskaber](stoffer/stoffer/psykedelika/psykisk-sygdom.md)
+
+## 🦠 COVID-19
+
+* [COVID-19](covid-19/covid-19.md)
+* [Mink](covid-19/mink.md)
