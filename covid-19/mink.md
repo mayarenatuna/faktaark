@@ -15,8 +15,9 @@ Beslutningen om at aflive alle mink blev bakket op at instituttets faglige direk
 
 ([TV2](https://nyheder.tv2.dk/samfund/2022-06-12-nu-er-vaerdiansaettelse-for-milliarder-i-gang-men-minkavlere-er-utaalmodige), Hansen et al. 22)
 
-* Den danske stat har forløbigt udbetalt **6.400.000.000** kroner i erstatning til minkavlerne
+* Den danske stat har foreløbigt udbetalt **6.400.000.000** kroner i erstatning til minkavlerne
 * Det forventes at staten i alt ender med at udbetale erstatning for **19.000.000.000** kroner
 
-### Etik
+### Minkavl
 
+Over 18 lande i Europa har allerede forbudt minkavl (**Fur Free Alliance**, Fur Free Alliance)

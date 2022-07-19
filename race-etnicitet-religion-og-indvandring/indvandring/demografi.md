@@ -1,19 +1,23 @@
 # Demografi
 
-### 'Den Store Udskiftning'
+### Seksualitet
 
-Pia Kjærsgaard siger at det danske folk 'udskiftes' ([Twitter](https://twitter.com/Pia\_Kjaersgaard/status/1138166258514432002), Pia Kjærsgaard 19), og Rasmus Paludan siger at danskere i 2040 vil nærme sig at være en minoritet. ([DR](https://imgur.com/anD9aR3), Frøkjær et al. 19) I realiteten vil **≈82,5%** af befolkningen være af dansk oprindelse, og ikke-vestlige indvandrer vil kun udgøre **≈10,5%** af befolkningen, så der er altså ikke tale om en "udskiftning" ([Danmarks Statistik](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/befolkningsfremskrivning))
+Muslimer er **ikke** mere **heteroseksuelle** eller **ciskønnede** end danskere, tværtimod ([Statens Serum Institut](https://files.projektsexus.dk/2019-10-26\_SEXUS-rapport\_2017-2018.pdf), Frisch et al. 19, Tabel 3.01., Tabel 4.01.) 3.01. "Andelen er markant **mindre** blandt personer med **muslimsk** kulturbaggrund end blandt personer uden en sådan baggrund (OR=0,48)." 4.01. "Andelen blandt personer med **muslimsk** kulturbaggrund er markant **større** end blandt personer uden en sådan baggrund (OR=2,11)"
+
+### "Den Store Udskiftning"
+
+[Pia Kjærsgaard](https://twitter.com/Pia\_Kjaersgaard/status/1138166258514432002) siger at det danske folk "udskiftes", og I **2040** hvor [Rasmus Paludan](https://imgur.com/anD9aR3) siger at **danskere** vil nærme sig at være en minoritet, vil befolkningen være **≈82,5%** dansk, og ikke-vestlige indvandre vil kun udgøre **≈10,5%** af befolkningen, så der er altså ikke tale om en "udskiftning" ([Danmarks Statistik](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/befolkningsfremskrivning))
 
 ![Danmarks Statistik](<../../.gitbook/assets/billede (15).png>)
 
-Kvinder af dansk oprindelse får lige så mange børn som ikke-vestlige kvinder **** ([Danmarks Statistik](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/fertilitet))
+**Danske kvinder** får **lige så mange** børn som **indvandrerkvinder** ([Danmarks Statistik](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/fertilitet))
 
 ![Danmarks Statistik](<../../.gitbook/assets/billede (9) (1).png>)
 
-Ikke-vestlige kvinders samlede fertilitet har været faldende siden 90'erne ([Danmarks Statistik)](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/fertilitet)
+**Indvandrerkvinders** samlede fertilitet har været **faldende siden 90'erne** ([Danmarks Statistik)](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/fertilitet)
 
 ![Danmarks Statistik](<../../.gitbook/assets/billede (13).png>)
 
-I 2008, udgjorde ikke-vestlige indvandrer **62,6%** af alle indvandrer, i dag **** udgør de kun **57,1%**  ([Danmarks Statistik](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/indvandrere-og-efterkommere))
+I **2008**, udgjorde **ikke-vestlige** indvandre **62,6%** af **alle** indvandre, **i dag** udgør de kun **57,1%**  ([Danmarks Statistik](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/indvandrere-og-efterkommere))
 
 ![Danmarks Statistik](<../../.gitbook/assets/billede (2).png>)
