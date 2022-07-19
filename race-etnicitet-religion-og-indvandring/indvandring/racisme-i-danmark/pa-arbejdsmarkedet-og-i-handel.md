@@ -2,7 +2,7 @@
 
 ([Københavns Universitet](https://menneskeret.dk/sites/menneskeret.dk/files/media/dokumenter/malte\_dahl\_forskning.pdf), Dahl 19)
 
-* **Minoritetsetniske** kvinder **med tørklæde** skal sende **60%** flere ansøgninger end etnisk **danske** kvinder for at blive indkaldt til samtale
+* **Minoritetsetniske** kvinder med tørklæde skal sende **60%** flere ansøgninger end etnisk **danske kvinder for at blive indkaldt til samtale**
 * **Minoritetsetniske** kvinder **uden tørklæde** skal sende **18%** flere ansøgninger end etnisk **danske** kvinder for at blive indkaldt til samtale
 
 ![Københavns Universitet, Dahl 19](<../../../.gitbook/assets/billede (8).png>)

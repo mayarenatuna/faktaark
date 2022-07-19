@@ -37,7 +37,7 @@
     * [Bibelvers](race-etnicitet-religion-og-indvandring/religion/kristendom/bibelvers.md)
   * [Islam](race-etnicitet-religion-og-indvandring/religion/islam.md)
 * [Indvandring](race-etnicitet-religion-og-indvandring/indvandring/README.md)
-  * [Økonomi](race-etnicitet-religion-og-indvandring/indvandring/okonomi.md)
+  * [Økonomi](race-etnicitet-religion-og-indvandring/indvandring/effekt.md)
   * [Integration](race-etnicitet-religion-og-indvandring/indvandring/integration.md)
   * [Demografi](race-etnicitet-religion-og-indvandring/indvandring/demografi.md)
   * [Racisme i Danmark](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/README.md)
