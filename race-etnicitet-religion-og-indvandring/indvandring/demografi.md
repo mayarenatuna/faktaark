@@ -1,12 +1,8 @@
 # Demografi
 
-### Seksualitet
+### 'Den Store Udskiftning'
 
-Muslimer er **ikke** mere **heteroseksuelle** eller **ciskønnede** end danskere, tværtimod ([Statens Serum Institut](https://files.projektsexus.dk/2019-10-26\_SEXUS-rapport\_2017-2018.pdf), Frisch et al. 19, Tabel 3.01., Tabel 4.01.) 3.01. "Andelen er markant **mindre** blandt personer med **muslimsk** kulturbaggrund end blandt personer uden en sådan baggrund (OR=0,48)." 4.01. "Andelen blandt personer med **muslimsk** kulturbaggrund er markant **større** end blandt personer uden en sådan baggrund (OR=2,11)"
-
-### "Den Store Udskiftning"
-
-[Pia Kjærsgaard](https://twitter.com/Pia\_Kjaersgaard/status/1138166258514432002) siger at det danske folk "udskiftes", og I **2040** hvor [Rasmus Paludan](https://imgur.com/anD9aR3) siger at **danskere** vil nærme sig at være en minoritet, vil befolkningen være **≈82,5%** dansk, og ikke-vestlige indvandre vil kun udgøre **≈10,5%** af befolkningen, så der er altså ikke tale om en "udskiftning" ([Danmarks Statistik](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/befolkningsfremskrivning))
+[Pia Kjærsgaard](https://twitter.com/Pia\_Kjaersgaard/status/1138166258514432002) siger at det danske folk "udskiftes", og I 2040 siger [Rasmus Paludan](https://imgur.com/anD9aR3) at danskere vil nærme sig at være en minoritet. I realiteten vil befolkningen være **≈82,5%** dansk, og ikke-vestlige indvandre vil kun udgøre **≈10,5%** af befolkningen, så der er altså ikke tale om en "udskiftning" ([Danmarks Statistik](https://www.dst.dk/da/Statistik/emner/borgere/befolkning/befolkningsfremskrivning))
 
 ![Danmarks Statistik](<../../.gitbook/assets/billede (15).png>)
 

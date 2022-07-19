@@ -4,9 +4,9 @@
 
 ([Det Nationale Integrationsbarometer](https://integrationsbarometer.dk/udviklingsrapporter/hele-landet-0322.pdf), Det Nationale Integrationsbarometer 22)
 
-* Andelen af indvandrere (ankommet som 0-12-årig) og efterkommere med ikke-vestlig oprindelse, der opnår karakteren 2 eller derover ved 9. klasses afgangsprøve i skriftlig dansk og matematisk problemløsning er steget med **13 pct. point** siden **2012**
-* Andelen af 20-24-årige indvandrere (ankommet som 0-12-årig) og efterkommere med ikke-vestlig oprindelse, der mindst har gennemført en dansk ungdomsuddannelse er steget med **11 pct. point** siden **2012**
-* Andelen af 25-39-årige indvandrere (ankommet som 0-12-årig) og efterkommere med ikke-vestlig oprindelse, der har gennemført en dansk videregående uddannelse er steget med **14 pct. point** siden **2012**
+* Andelen af indvandrere (ankommet som 0-12-årig) og efterkommere med ikke-vestlig oprindelse, der opnår karakteren 2 eller derover ved 9. klasses afgangsprøve i skriftlig dansk og matematisk problemløsning er steget med **13 pct. point** siden 2012
+* Andelen af 20-24-årige indvandrere (ankommet som 0-12-årig) og efterkommere med ikke-vestlig oprindelse, der mindst har gennemført en dansk ungdomsuddannelse er steget med **11 pct. point** siden 2012
+* Andelen af 25-39-årige indvandrere (ankommet som 0-12-årig) og efterkommere med ikke-vestlig oprindelse, der har gennemført en dansk videregående uddannelse er steget med **14 pct. point** siden 2012
 
 ### Holdninger
 

@@ -25,9 +25,9 @@
 
 * [Feminisme](ligestilling-feminisme-og-abort/feminisme.md)
   * [Stillinger](ligestilling-feminisme-og-abort/feminisme/stillinger.md)
-  * [Voldtægt](ligestilling-feminisme-og-abort/feminisme/voldtaegt.md)
   * [Løn](ligestilling-feminisme-og-abort/feminisme/lon.md)
   * [Vold](ligestilling-feminisme-og-abort/feminisme/vold.md)
+  * [Voldtægt](ligestilling-feminisme-og-abort/feminisme/voldtaegt.md)
 * [Abort](ligestilling-feminisme-og-abort/abort.md)
 
 ## 🌐 Race, Etnicitet, Religion og Indvandring
@@ -37,7 +37,7 @@
     * [Bibelvers](race-etnicitet-religion-og-indvandring/religion/kristendom/bibelvers.md)
   * [Islam](race-etnicitet-religion-og-indvandring/religion/islam.md)
 * [Indvandring](race-etnicitet-religion-og-indvandring/indvandring/README.md)
-  * [Effekt](race-etnicitet-religion-og-indvandring/indvandring/effekt.md)
+  * [Økonomi](race-etnicitet-religion-og-indvandring/indvandring/okonomi.md)
   * [Integration](race-etnicitet-religion-og-indvandring/indvandring/integration.md)
   * [Demografi](race-etnicitet-religion-og-indvandring/indvandring/demografi.md)
   * [Racisme i Danmark](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/README.md)
