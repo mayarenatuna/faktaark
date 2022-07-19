@@ -20,4 +20,4 @@ Beslutningen om at aflive alle mink blev bakket op at instituttets faglige direk
 
 ### Minkavl
 
-Over 18 lande i Europa har allerede forbudt minkavl (**Fur Free Alliance**, Fur Free Alliance)
+Over 18 lande i Europa har allerede forbudt minkavl ([Fur Free Alliance](https://www.furfreealliance.com/fur-bans/), Fur Free Alliance)
