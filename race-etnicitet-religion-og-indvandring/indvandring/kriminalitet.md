@@ -1,19 +1,22 @@
 # Kriminalitet
 
-### Forskelsbehandling
+### Etnisk profilering
 
-”På trods af omfattende kontrol og test for diverse forklaringer af forskellene, finder de, at der fortsat er forskel: etniske minoriteter anholdes oftere og sigtes oftere uden, at dette fører til en dom sammenlignet med etniske danskere.” ([Det Kriminalpræventive Råd](https://dkr.dk/media/7009/kriminalitet-og-etniske-minoriteter-del-i.pdf), Nielsen et al. 19)
+”På trods af omfattende kontrol og test for diverse forklaringer af forskellene, finder de, at der fortsat er forskel: etniske minoriteter anholdes oftere og sigtes oftere uden, at dette fører til en dom sammenlignet med etniske danskere. De konkluderer således, at det ikke kan udelukkes, at der fra retssystemets side finder diskrimination sted.” ([Det Kriminalpræventive Råd](https://dkr.dk/media/7009/kriminalitet-og-etniske-minoriteter-del-i.pdf), Nielsen et al. 19)
 
-([Danmarks Statistik](https://www.dst.dk/ext/formid/saerkoersel-dr--xlsx))
+([Institut for Menneskerettigheder](https://menneskeret.dk/sites/menneskeret.dk/files/media/document/Politi\_Hovedrapport\_06.pdf), Institut for Menneskerettigheder 22)
 
-* Risikoen for at en anholdelse ender uden dom, er **88%** højere for ikke-vestlige efterkommere end for personer af dansk oprindelse
-* Risikoen for at en anholdelse ender uden dom, er **86%** højere for ikke-vestlige **** indvandrere end for personer af dansk oprindelse
+* Sandsynligheden for at blive sigtet uden fældende afgørelse er **27%** højere for sigtede indvandrere end for sigtede personer med dansk oprindelse
+* Sandsynligheden for at blive sigtet uden fældende afgørelse er **45%** højere for sigtede efterkommere end for sigtede personer med dansk oprindelse&#x20;
+* Sandsynligheden for anholdelse uden fældende afgørelse er **38%** højere for indvandrere end for personer med dansk oprindelse
+* Sandsynligheden for anholdelse uden fældende afgørelse er **45%** højere for efterkommere end for personer med dansk oprindelse&#x20;
+* Disse tal er justeret for gerningstype, antal sigtede i sagen, sigtelsesåret og sigtedes alder, køn, uddannelse, beskæftigelse, indkomst og familietype.
 
 ### Kriminalitet
 
-De 2 lande (Jugoslavien, Libanon) med de højeste kriminalitetsindekser er kristne, **** ikke muslimske ([Wikipedia](https://en.wikipedia.org/wiki/Religion\_in\_Lebanon), [Pew Research Center](https://www.pewresearch.org/fact-tank/2017/05/22/most-in-former-yugoslavia-favor-multicultural-society-although-some-tensions-remain/), [Danmarks Statistik](https://www.dst.dk/da/Statistik/nyheder-analyser-publ/nyt/NytHtml?cid=20403))
+([Danmarks Statistik](https://www.dst.dk/Site/Dst/Udgivelser/GetPubFile.aspx?id=34714\&sid=indv2021), Danmarks Statistik 2021)
 
-{% hint style="warning" %}
-"Outside of Lebanon, Lebanese people (including [diaspora](https://en.wikipedia.org/wiki/Lebanese\_diaspora)) are mostly Christians"
-{% endhint %}
+Justeret for alder, socioøkonomisk status, familiens indkomst- og uddannelse er:
 
+* Den eneste gruppe der er stærkt overrepræsenterede i kriminalitetsindekserne ikke-vestlige efterkommere
+* Ikke-vestlige- og vestlige indvandrerkvinder og mindre tilbøjelige til at begå kriminalitet end kvinder af dansk oprindelse
