@@ -46,17 +46,14 @@
     * [Ude på institutionerne](race-etnicitet-religion-og-indvandring/indvandring/racisme-i-danmark/ude-pa-institutionerne.md)
   * [Kriminalitet](race-etnicitet-religion-og-indvandring/indvandring/kriminalitet.md)
 
-## ⚧ Køn og Transkønnede
-
-* [Køn og transkønnede](kon-og-transkonnede/kon-og-transkonnede/README.md)
-  * [Medicinsk konsensus](kon-og-transkonnede/kon-og-transkonnede/medicinsk-konsensus.md)
-  * [Akademisk konsensus](kon-og-transkonnede/kon-og-transkonnede/akademisk-konsensus.md)
-  * [Behandling og rettigheder](kon-og-transkonnede/kon-og-transkonnede/behandling-og-rettigheder.md)
-  * [Myter](kon-og-transkonnede/kon-og-transkonnede/toiletter.md)
-
 ## 🏳🌈 LGBTQ+
 
-* [LGBTQ+](lgbtq+/homoseksuelle.md)
+* [Seksualitet](lgbtq+/seksualitet.md)
+* [Køn og transkønnede](lgbtq+/kon-og-transkonnede/README.md)
+  * [Medicinsk konsensus](lgbtq+/kon-og-transkonnede/medicinsk-konsensus.md)
+  * [Akademisk konsensus](lgbtq+/kon-og-transkonnede/akademisk-konsensus.md)
+  * [Behandling og rettigheder](lgbtq+/kon-og-transkonnede/behandling-og-rettigheder.md)
+  * [Myter](lgbtq+/kon-og-transkonnede/myter.md)
 * [Stigmatisering, mobning og diskrimination](lgbtq+/stigmatisering-mobning-og-diskrimination.md)
 * [Omvendelsesterapi](lgbtq+/omvendelsesterapi.md)
 
