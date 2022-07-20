@@ -13,7 +13,7 @@ Der findes en substantiel navnebaseret diskrimination på **5,77-14 pct point.**
 
 Minoritetsansøgere skal sende **52%** flere ansøgninger for at modtage samme antal invitationer som ansøgere med traditionelle danske navne ([Oxford Academic](https://academic.oup.com/esr/article-abstract/34/4/402/5047111), Dahl et al. 18)
 
-![Oxford Academic, Table 2.](<../../../.gitbook/assets/billede (6).png>)
+![Oxford Academic, Table 2.](<../../../.gitbook/assets/billede (6) (1).png>)
 
 Boligsøgende med mellemøstligt klingende navne skal i snit sende **27%** flere ansøgninger end ansøgere med danskklingende navne for at have lige så gode chancer for at få et positivt svar ([Ankestyrelsen](https://ast.dk/filer/ankestyrelsen-generelt/antidiskriminationsenheden/rapport-om-etnisk-diskrimination-pa-boligmarkedet.pdf/@@download/file/Rapport%20om%20etnisk%20diskrimination%20p%C3%A5%20boligmarkedet.pdf), Herby et al. 15)
 

@@ -72,13 +72,14 @@
 ## 🚬 Stoffer
 
 * [Stoffer](stoffer/stoffer/README.md)
-  * [Cannabis](stoffer/stoffer/cannabis/README.md)
-    * [Legalisering og dekriminalisering](stoffer/stoffer/cannabis/legalisering-og-dekriminalisering.md)
-    * [Meningsmålinger](stoffer/stoffer/cannabis/meningsmalinger.md)
   * [Tobak](stoffer/stoffer/tobak/README.md)
     * [Cigaretter](stoffer/stoffer/tobak/cigaretter.md)
     * [Snus](stoffer/stoffer/tobak/snus.md)
     * [E-cigaretter](stoffer/stoffer/tobak/e-cigaretter.md)
+  * [Sundhedsreformen 2022](stoffer/stoffer/sundhedsreformen-2022.md)
+  * [Cannabis](stoffer/stoffer/cannabis/README.md)
+    * [Legalisering og dekriminalisering](stoffer/stoffer/cannabis/legalisering-og-dekriminalisering.md)
+    * [Meningsmålinger](stoffer/stoffer/cannabis/meningsmalinger.md)
   * [Psykedelika](stoffer/stoffer/psykedelika/README.md)
     * [Positive egenskaber](stoffer/stoffer/psykedelika/psykisk-sygdom.md)
 

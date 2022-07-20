@@ -23,7 +23,7 @@ En empirisk analyse af dekriminalisering af stoffer i Portugal:
 * Reduceret problematisk og unges stofbrug
 * Reduceret narkotika-induceret død&#x20;
 * Flere mennesker i medicinbehandling&#x20;
-  * Over 70% af dem, der søger behandling, modtager opioidsubstitutionsterapi
+  * Over **70%** af dem, der søger behandling, modtager opioidsubstitutionsterapi
   * Dette er alt sammen imens behandlingen stadig er frivillig
 * Reduktion af HIV-tilfælde blandt personer, der bruger stoffer, falder fra **1.575 til 78**
 * **18%** reduktion i de sociale omkostninger ved stofmisbrug (juridiske og sundhedsrelaterede)
