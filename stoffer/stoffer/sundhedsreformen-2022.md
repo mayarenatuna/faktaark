@@ -9,7 +9,7 @@
   * I 1998 havde **74%** af de 11-årige drenge og **58%** af de 11-årige piger prøvet at drikke alkohol, mens tallet i 2018 var henholdsvis **20%** blandt drenge og **7%** blandt piger
   * Blandt 15-årige ses et stort fald i brugen af alkohol, med en opbremsning i faldet før 2018, hvor der ses en lille stigning i andelen af 15-årige drenge, som har prøvet at drikke alkohol. At sætte aldersgrænsen for salg af alkohol op fra 16 til 18 vil ikke ændre på brugen af alkohol for 15-årige, da 15-årige køber det ulovligt alligevel
 
-### 'M- men så mange unge bruger nikotinprodukter, at det er nødvendigt at forbyde dem for voksne!'
+### 'Men så mange unge bruger nikotinprodukter, at det er nødvendigt at forbyde dem for voksne!'
 
 Denne ide kommer af Sundhedsreformen fra 2022, som siger at **31%** af folk i gruppen 15-29 år anvender mindst et nikotinprodukt, og at dette er en stigning på **15%** på 1½ år ([Sundhedsministeriet](https://sum.dk/Media/637877794041265656/Faktaark%20-%20nikotinfri%20generation%20.pdf), Sundhedsministeriet 22)
 
