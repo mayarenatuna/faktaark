@@ -6,8 +6,8 @@
 
 ## 💲 Økonomi
 
-* [Ulighed](okonomi/ulighed.md)
-* [Arbejderkooperativer](okonomi/arbejderkooperativer.md)
+* [Ulighed](kapitalisme-og-socialisme/ulighed.md)
+* [Arbejderkooperativer](kapitalisme-og-socialisme/arbejderkooperativer.md)
 * [Hjemløshed](okonomi/hjemloshed.md)
 
 ## 👥 Politik
@@ -24,13 +24,14 @@
 
 ## ⚖ Ligestilling, Feminisme og Abort
 
-* [Ligestilling](ligestilling-feminisme-og-abort/ligestilling/README.md)
-  * [Stillinger](ligestilling-feminisme-og-abort/ligestilling/stillinger.md)
-  * [Vold og voldtægt](ligestilling-feminisme-og-abort/ligestilling/vold-og-voldtaegt.md)
-  * [Løn](ligestilling-feminisme-og-abort/ligestilling/lon.md)
-  * [Selvmord og psykisk velvære](ligestilling-feminisme-og-abort/ligestilling/selvmord-og-psykisk-velvaere.md)
-  * [Køreevner](ligestilling-feminisme-og-abort/ligestilling/koreevner.md)
-  * [Prostitution](ligestilling-feminisme-og-abort/ligestilling/prostitution.md)
+* [Feminisme](ligestilling-feminisme-og-abort/feminisme/README.md)
+  * [Sexisme](ligestilling-feminisme-og-abort/feminisme/sexisme.md)
+  * [Stillinger](ligestilling-feminisme-og-abort/feminisme/stillinger.md)
+  * [Vold og voldtægt](ligestilling-feminisme-og-abort/feminisme/vold-og-voldtaegt.md)
+  * [Løn](ligestilling-feminisme-og-abort/feminisme/lon.md)
+  * [Selvmord og psykisk velvære](ligestilling-feminisme-og-abort/feminisme/selvmord-og-psykisk-velvaere.md)
+  * [Køreevner](ligestilling-feminisme-og-abort/feminisme/koreevner.md)
+  * [Sex](ligestilling-feminisme-og-abort/feminisme/sex.md)
 * [Abort](ligestilling-feminisme-og-abort/abort.md)
 
 ## 🌐 Race, Etnicitet, Religion og Indvandring

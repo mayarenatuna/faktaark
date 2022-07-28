@@ -1,2 +1,0 @@
-# Selvmord og psykisk velvære
-
