@@ -4,10 +4,11 @@
 
 * [Information](README.md)
 
-## 💲 Kapitalisme og Socialisme
+## 💲 Økonomi
 
-* [Ulighed](kapitalisme-og-socialisme/ulighed.md)
-* [Arbejderkooperativer](kapitalisme-og-socialisme/arbejderkooperativer.md)
+* [Ulighed](okonomi/ulighed.md)
+* [Arbejderkooperativer](okonomi/arbejderkooperativer.md)
+* [Hjemløshed](okonomi/hjemloshed.md)
 
 ## 👥 Politik
 
@@ -23,11 +24,13 @@
 
 ## ⚖ Ligestilling, Feminisme og Abort
 
-* [Feminisme](ligestilling-feminisme-og-abort/feminisme.md)
-  * [Stillinger](ligestilling-feminisme-og-abort/feminisme/stillinger.md)
-  * [Løn](ligestilling-feminisme-og-abort/feminisme/lon.md)
-  * [Vold](ligestilling-feminisme-og-abort/feminisme/vold.md)
-  * [Voldtægt](ligestilling-feminisme-og-abort/feminisme/voldtaegt.md)
+* [Ligestilling](ligestilling-feminisme-og-abort/ligestilling/README.md)
+  * [Stillinger](ligestilling-feminisme-og-abort/ligestilling/stillinger.md)
+  * [Vold og voldtægt](ligestilling-feminisme-og-abort/ligestilling/vold-og-voldtaegt.md)
+  * [Løn](ligestilling-feminisme-og-abort/ligestilling/lon.md)
+  * [Selvmord og psykisk velvære](ligestilling-feminisme-og-abort/ligestilling/selvmord-og-psykisk-velvaere.md)
+  * [Køreevner](ligestilling-feminisme-og-abort/ligestilling/koreevner.md)
+  * [Prostitution](ligestilling-feminisme-og-abort/ligestilling/prostitution.md)
 * [Abort](ligestilling-feminisme-og-abort/abort.md)
 
 ## 🌐 Race, Etnicitet, Religion og Indvandring
