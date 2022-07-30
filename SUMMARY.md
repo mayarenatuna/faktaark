@@ -25,13 +25,12 @@
 ## ⚖ Ligestilling, Feminisme og Abort
 
 * [Feminisme](ligestilling-feminisme-og-abort/feminisme/README.md)
-  * [Sexisme](ligestilling-feminisme-og-abort/feminisme/sexisme.md)
   * [Stillinger](ligestilling-feminisme-og-abort/feminisme/stillinger.md)
   * [Vold og voldtægt](ligestilling-feminisme-og-abort/feminisme/vold-og-voldtaegt.md)
   * [Løn](ligestilling-feminisme-og-abort/feminisme/lon.md)
   * [Selvmord og psykisk velvære](ligestilling-feminisme-og-abort/feminisme/selvmord-og-psykisk-velvaere.md)
   * [Køreevner](ligestilling-feminisme-og-abort/feminisme/koreevner.md)
-  * [Sex](ligestilling-feminisme-og-abort/feminisme/sex.md)
+  * [Andet](ligestilling-feminisme-og-abort/feminisme/andet.md)
 * [Abort](ligestilling-feminisme-og-abort/abort.md)
 
 ## 🌐 Race, Etnicitet, Religion og Indvandring
