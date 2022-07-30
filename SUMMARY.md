@@ -6,7 +6,7 @@
 
 ## 💲 Økonomi
 
-* [Ulighed](kapitalisme-og-socialisme/ulighed.md)
+* [Ulighed og fattigdom](okonomi/ulighed-og-fattigdom.md)
 * [Arbejderkooperativer](kapitalisme-og-socialisme/arbejderkooperativer.md)
 * [Hjemløshed](okonomi/hjemloshed.md)
 

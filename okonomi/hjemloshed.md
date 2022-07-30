@@ -15,7 +15,7 @@ I 2021 er der **181.000** ubeboede boliger i hele landet ([Danmarks Statistik](h
 
 #### Årsager til hjemløshed
 
-([VIVE](https://www.vive.dk/da/temaer/hjemloeshed/), Benjaminsen 19)
+([VIVE](https://www.vive.dk/media/pure/14218/3352843), Benjaminsen 19)
 
 * **41%** angiver at de er hjemløse pga. psykisk sygdom
 * **33%** angiver at de er hjemløse pga. stofmisbrug
